@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShakespearHW\ShakespearHW\bin\Debug\ShakespearHW.exe.config
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ShakespearHW\ShakespearHW\bin\Debug\ShakespearHW.exe
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ShakespearHW\ShakespearHW\bin\Debug\ShakespearHW.pdb
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ShakespearHW\ShakespearHW\obj\Debug\ShakespearHW.csprojResolveAssemblyReference.cache
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ShakespearHW\ShakespearHW\obj\Debug\ShakespearHW.exe
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ShakespearHW\ShakespearHW\obj\Debug\ShakespearHW.pdb
